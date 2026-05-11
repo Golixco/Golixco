@@ -1,12 +1,12 @@
-<img width="770" height="405" alt="Stats" src="https://github.com/user-attachments/assets/d75275fd-8088-4e46-96bc-b66d392ad2a1" />
-
-
 ###  About Me
 
 > Aspiring **AI/ML Engineer** and B.Tech (CE-AIML) 3rd-year student with practical experience building machine learning and AI-powered applications. Skilled in Python, Linux environments, and modern development tools, with a focus on writing clean and efficient code. Highly interested in designing intelligent systems that solve real-world problems.
 
 ---
 
+<img width="770" height="405" alt="Stats" src="https://github.com/user-attachments/assets/d75275fd-8088-4e46-96bc-b66d392ad2a1" />
+
+---
 ###  Hacktoberfest 2025
 Holopin Badges
     <br>
