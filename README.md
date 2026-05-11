@@ -1,16 +1,14 @@
 <img width="770" height="380" alt="Stats" src="https://github.com/user-attachments/assets/d75275fd-8088-4e46-96bc-b66d392ad2a1" />
 
 
-### 👨‍💻 About Me
+###  About Me
 
 > Aspiring **AI/ML Engineer** and B.Tech (CE-AIML) 3rd-year student with practical experience building machine learning and AI-powered applications. Skilled in Python, Linux environments, and modern development tools, with a focus on writing clean and efficient code. Highly interested in designing intelligent systems that solve real-world problems.
 
 ---
 
-### 🏆 Achievements & Badges
-
-*   🎃 **Hacktoberfest 2025:** Supercontributor
-*   📌 **Holopin:** Check out my badges!
+###  Hacktoberfest 2025
+Holopin Badges
     <br>
     <a href="https://holopin.io/@golixco" target="_blank">
       <img src="https://holopin.me/golixco" alt="@golixco's Holopin board" />
@@ -18,7 +16,7 @@
 
 ---
 
-### ⚡ Tech Stack & Skills
+###  Tech Stack & Skills
 
 <p align="left">
   <!-- Languages & OS -->
@@ -43,7 +41,7 @@
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://rohansonubablani.com/" target="_blank">
