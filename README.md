@@ -1,4 +1,4 @@
-<img width="750" height="350" alt="Stats" src="https://github.com/user-attachments/assets/d75275fd-8088-4e46-96bc-b66d392ad2a1" />
+<img width="770" height="380" alt="Stats" src="https://github.com/user-attachments/assets/d75275fd-8088-4e46-96bc-b66d392ad2a1" />
 
 
 ### 👨‍💻 About Me
